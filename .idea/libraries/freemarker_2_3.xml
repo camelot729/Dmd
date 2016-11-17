@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="freemarker-2.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/jar'ники/freemarker-2.3.23" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/jar'ники/freemarker-2.3.23/documentation/_html/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/jar'ники/freemarker-2.3.23/source/src/examples/struts-webapp/WEB-INF/classes" />
+      <root url="file://$USER_HOME$/Downloads/jar'ники/freemarker-2.3.23/source/src/examples/webapp1/WEB-INF/classes" />
+      <root url="file://$USER_HOME$/Downloads/jar'ники/freemarker-2.3.23/source/src/examples/webapp2/WEB-INF/classes" />
+      <root url="file://$USER_HOME$/Downloads/jar'ники/freemarker-2.3.23/source/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/jar'ники/freemarker-2.3.23/source/src/main/misc/identifierChars/src/main" />
+      <root url="file://$USER_HOME$/Downloads/jar'ники/freemarker-2.3.23/source/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/jar'ники/freemarker-2.3.23/source/src/test/resources" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/jar'ники/freemarker-2.3.23" recursive="false" />
+  </library>
+</component>
