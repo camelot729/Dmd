@@ -12,6 +12,7 @@ import javax.xml.stream.StreamFilter;
 @Table(name = "hotel")
 public class HotelEntity {
     @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "id", nullable = false)
     private Integer id;
 

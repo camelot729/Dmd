@@ -35,7 +35,7 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/staff/schedule">Часы приема</a></li>
+                    <li class="active"><a href="/staff">Profile</a></li>
                     <li><a href="/staff/booking">booking</a></li>
                     <li><a href="/logout">logout</a></li>
                 </ul>
@@ -87,27 +87,14 @@
                                 <tr>
                                     <td>Gender</td>
                                     <td>
-                                    <#if staff??>
-                                                <#if staff.sex??>
                                     ${staff.sex}
-                                    </#if>
-                                            </#if>
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td>Зарплата</td>
-                                    <td>
-                                    <#if profile??>
-                                            ${profile.salary}
-                                        </#if>
-                                    </td>
-                                </tr>
+
                                 <tr>
                                     <td>Email</td>
                                     <td>
-                                    <#if profile??>
                                         <a href="">${staff.email}</a>
-                                    </#if>
                                     </td>
                                 </tr>
 
@@ -126,19 +113,7 @@
     </div>
 </section><!--/#services-->
 
-<footer id="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6">
-                &copy; 2016 <a target="_blank" href="https://vk.com/id36179438">by Roman Egorov</a>. All Rights
-                Reserved.
-            </div>
-            <div class="col-sm-6">
-                <img class="pull-right" src="/images/shapebootstrap.png" alt="ShapeBootstrap" title="ShapeBootstrap">
-            </div>
-        </div>
-    </div>
-</footer><!--/#footer-->
+<#include "footer.ftl">
 
 <script src="/js/jquery.js"></script>
 <script src="/js/bootstrap.min.js"></script>

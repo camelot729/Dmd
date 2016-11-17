@@ -35,11 +35,9 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/admin">Прибыль</a></li>
-                    <li><a href="/admin/expenses">Затраты</a></li>
-                    <li><a href="/admin/offices">Офисы</a></li>
-                    <li><a href="/admin/staff">Сотрудники</a></li>
-                    <li><a href="/logout">Выход</a></li>
+                    <li class="active"><a href="/admin/offices">Office</a></li>
+                    <li><a href="/admin/staff">Stuff</a></li>
+                    <li><a href="/logout">Log out</a></li>
                 </ul>
             </div>
         </div>
@@ -68,22 +66,22 @@
                             <div class=" col-md-9 col-lg-9 ">
                                 <table class="table table-user-information">
                                     <tr>
-                                        <td>Город:</td>
+                                        <td>Country:</td>
+                                        <td>
+                                        ${office.country}
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    <tr>
+                                        <td>City:</td>
                                         <td>
                                         ${office.city}
                                         </td>
                                     </tr>
                                     <tr>
-                                    <tr>
-                                        <td>Улица:</td>
+                                        <td>Name:</td>
                                         <td>
-                                        ${office.street}
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Аренда:</td>
-                                        <td>
-                                        ${office.rent}
+                                        ${office.name}
                                         </td>
                                     </tr>
 

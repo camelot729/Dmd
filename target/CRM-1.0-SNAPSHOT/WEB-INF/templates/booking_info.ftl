@@ -41,6 +41,8 @@
                         <div class="row">
                             <div class="col-md-3 col-lg-3 " align="center"><img class="icon-5x img-circle img-responsive"></div>
 
+
+
                             <div class=" col-md-9 col-lg-9 ">
                                 <table class="table table-user-information">
                                     <tr>
@@ -65,8 +67,21 @@
                                     </tr>
 
                                     <tr>
-                                        <td>Время работы</td>
-                                        <td>Ежедневно с 9:00 до 20:00</td>
+                                        <td>Number room:</td>
+                                        <td>№ 98</td>
+                                    </tr>
+
+
+                                    <#--<tr>-->
+                                        <#--<td>room Number:</td>-->
+                                        <#--<td>-->
+                                        <#--${room}-->
+                                        <#--</td>-->
+                                    <#--</tr>-->
+
+                                    <tr>
+                                        <td>Work time</td>
+                                        <td>Everyday from 9:00 to 22:00</td>
                                     </tr>
 
                                 </table>
@@ -79,6 +94,8 @@
         </div>
     </div>
 </section><!--/#services-->
+
+<#include "footer.ftl">
 
 </body>
 </html>

@@ -63,12 +63,12 @@
                                     </tr>
 
                                     <tr>
-                                        <td>Время работы</td>
-                                        <td>Ежедневно с 9:00 до 20:00</td>
+                                        <td>Work time</td>
+                                        <td>Everyday from 9:00 to 22:00</td>
                                     </tr>
 
                                 </table>
-                                <a href="/client/hotel/profile/${hotel.id}/booking" methods="get"><button>Забронировать отель</button></a>
+                                <a href="/client/hotel/profile/${hotel.id}/booking" methods="get"><button class="btn btn-primary">Booking hotel</button></a>
                             </div>
                         </div>
                     </div>

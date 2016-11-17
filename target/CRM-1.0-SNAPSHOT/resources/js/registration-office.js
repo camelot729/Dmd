@@ -6,28 +6,32 @@ $(document).ready(function () {
                 minlength: 2,
                 maxlength: 30
             },
-            street: {
+            country: {
                 required: true,
                 minlength: 2,
                 maxlength: 30
             },
-            rent: {
-                required: true
+            name: {
+                required: true,
+                minlength: 2,
+                maxlength: 30
             }
         },
         messages: {
             city: {
-                required: "Это поле обязательно для заполнения",
-                minlength: "Минимальное число символов - 2",
-                maxlength: "Максимальное число символов - 30"
+                required: "This field is required",
+                minlength: "The minimum number of characters - 2",
+                maxlength: "The maximum number of characters - 30"
             },
-            street: {
-                required: "Это поле обязательно для заполнения",
-                minlength: "Минимальное число символов - 2",
-                maxlength: "Максимальное число символов - 30"
+            country: {
+                required: "This field is required",
+                minlength: "The minimum number of characters - 2",
+                maxlength: "The maximum number of characters - 30"
             },
-            rent: {
-                required: "Это поле обязательно для заполнения",
+            name: {
+                required: "This field is required",
+                minlength: "The minimum number of characters - 2",
+                maxlength: "The maximum number of characters - 30"
             }
         }
     });

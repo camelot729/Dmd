@@ -1,7 +1,5 @@
 package ru.kpfu.itis.form;
 
-import ru.kpfu.itis.entity.Interval;
-
 /**
  * Created by Kamil on 16.11.16.
  */
@@ -10,6 +8,10 @@ public class HotelForm {
     private Integer id;
 
     private String name;
+
+    private String city;
+
+    private String country;
 
     public Integer getId() {
         return id;
@@ -25,5 +27,21 @@ public class HotelForm {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getCity() {
+        return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+    public String getCountry() {
+        return country;
+    }
+
+    public void setCountry(String country) {
+        this.country = country;
     }
 }

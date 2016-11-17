@@ -2,89 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="619a0346-40d5-4218-8dc0-89d9539a72b1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__logkit_logkit_1_0_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__avalon_framework_avalon_framework_4_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcmail_jdk14_138.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcprov_jdk14_138.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk14_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bctsp_jdk14_1_38.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lowagie_itext_2_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcmail_jdk14_138.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcprov_jdk14_138.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3U1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__logkit_logkit_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcmail_jdk14_1_38.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk14_1_38.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bctsp_jdk14_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lowagie_itext_2_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__avalon_framework_avalon_framework_4_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/controller/ClientController.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/controller/ClientController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/controller/SearchController.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/controller/SearchController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/entity/PersonEntity.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/entity/PersonEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/form/RegistrationForm.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/form/RegistrationForm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/service/impl/StaffServiceImpl.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/service/impl/StaffServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/util/ClientRegFormToUserTransformer.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/util/ClientRegFormToUserTransformer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/util/StaffRegFormToUserTransformer.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/util/StaffRegFormToUserTransformer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/controller/ClientController.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/controller/ClientController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/controller/SearchController.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/controller/SearchController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/entity/PersonEntity.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/entity/PersonEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/form/RegistrationForm.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/form/RegistrationForm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/service/impl/StaffServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/service/impl/StaffServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/util/ClientRegFormToUserTransformer.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/util/ClientRegFormToUserTransformer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/util/StaffRegFormToUserTransformer.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/util/StaffRegFormToUserTransformer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/CRM_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/CRM_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/CRM_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/CRM_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CRM.iml" afterPath="$PROJECT_DIR$/CRM.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/ClientController.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/ClientController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/SearchController.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/SearchController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/StaffController.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/StaffController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/MedClinicEntity.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/MedClinicEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/PersonEntity.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/PersonEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/StaffProfileEntity.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/StaffProfileEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/RegistrationForm.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/RegistrationForm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/StaffRepository.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/StaffRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/admin_registration_staff.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/admin_registration_staff.ftl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/StaffServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/StaffServiceImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/ClientRegFormToUserTransformer.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/ClientRegFormToUserTransformer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/StaffRegFormToUserTransformer.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/StaffRegFormToUserTransformer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/database.properties" afterPath="$PROJECT_DIR$/src/main/resources/database.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_staff.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_staff.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_edit_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_edit_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_office_profile_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_office_profile_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_offices_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_offices_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_services_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_services_page.ftl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/index_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/index_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/login_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/login_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/profile.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/profile.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/registration_client.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/registration_client.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/staff_profile_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/staff_profile_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/services.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/database.properties" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/database.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/admin_registration_staff.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/admin_registration_staff.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/admin_staff_profile_edit_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/admin_staff_profile_edit_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/RegistrationForm.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/RegistrationForm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/SearchController.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/SearchController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/admin_staff_profile_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/admin_staff_profile_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/client_office_profile_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/client_office_profile_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/client_offices_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/client_offices_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/staff_profile_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/staff_profile_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/StaffRegFormToUserTransformer.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/StaffRegFormToUserTransformer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/util/StaffRegFormToUserTransformer.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/util/StaffRegFormToUserTransformer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/profile.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/profile.ftl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/client_services_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/client_services_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/index_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/index_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/form/RegistrationForm.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/form/RegistrationForm.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/StaffController.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/StaffController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_edit_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_edit_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/services.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/services.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/login_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/login_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/profile.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/profile.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/registration_client.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/registration_client.ftl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/client_office_profile_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/client_office_profile_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/resources/js/services.js" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/resources/js/services.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/PersonEntity.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/PersonEntity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/registration_client.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/registration_client.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/entity/PersonEntity.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/entity/PersonEntity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/database.properties" afterPath="$PROJECT_DIR$/target/classes/database.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/profile.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/profile.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/service/impl/StaffServiceImpl.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/service/impl/StaffServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_services_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_services_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/client_offices_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/client_offices_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/ClientController.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/ClientController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/login_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/login_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_office_profile_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_office_profile_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/util/ClientRegFormToUserTransformer.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/util/ClientRegFormToUserTransformer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/controller/ClientController.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/controller/ClientController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/index_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/index_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_staff.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_staff.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/database.properties" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/database.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/service/impl/StaffServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/service/impl/StaffServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/registration_client.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/registration_client.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/database.properties" afterPath="$PROJECT_DIR$/src/main/resources/database.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/StaffRepository.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/StaffRepository.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/admin_staff_profile_edit_page.ftl" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/templates/admin_staff_profile_edit_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/CRM_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/CRM_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/controller/SearchController.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/controller/SearchController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/CRM_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/CRM_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/controller/SearchController.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/controller/SearchController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CRM.iml" afterPath="$PROJECT_DIR$/CRM.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/MedClinicEntity.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/MedClinicEntity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/StaffProfileEntity.java" afterPath="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/StaffProfileEntity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/entity/PersonEntity.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/entity/PersonEntity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_offices_page.ftl" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_offices_page.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/util/ClientRegFormToUserTransformer.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/util/ClientRegFormToUserTransformer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/util/StaffRegFormToUserTransformer.class" afterPath="$PROJECT_DIR$/target/classes/ru/kpfu/itis/util/StaffRegFormToUserTransformer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/controller/ClientController.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/controller/ClientController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/form/RegistrationForm.class" afterPath="$PROJECT_DIR$/target/CRM-1.0-SNAPSHOT/WEB-INF/classes/ru/kpfu/itis/form/RegistrationForm.class" />
     </list>
     <ignored path="CRM.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -107,215 +107,29 @@
     <option name="SORT_POSITIONED" value="false" />
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="PostgreSQL - crm_roma@localhost" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="public" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="PostgreSQL - crm_roma@localhost" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="public" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="booking" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="PostgreSQL - crm_roma@localhost" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="public" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="PostgreSQL - crm_roma@localhost" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="CRM" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="BookingRepositoryImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/BookingRepositoryImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="55" column="28" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1479408465000" expanded="true" signature="549:577" placeholder="SELECT * FRO... booking" />
-                <marker date="1479408465000" expanded="true" signature="722:784" placeholder="SELECT hotel... booking" />
-                <marker date="1479408465000" expanded="true" signature="722:805" placeholder="SELECT h.nam... CLIENT_BOOKING" />
-                <marker date="1479408465000" expanded="true" signature="1001:1074" placeholder="SELECT user_... booking" />
-                <marker date="1479408465000" expanded="true" signature="1001:1081" placeholder="SELECT c.nam... CLIENT_BOOKING" />
-                <marker date="1479408465000" expanded="true" signature="1001:1096" placeholder="SELECT c.fir... CLIENT_BOOKING" />
-                <marker date="1479408465000" expanded="true" signature="1291:1372" placeholder="SELECT h.id CLIENT_BOOKING" />
-                <marker date="1479408465000" expanded="true" signature="1567:1667" placeholder="SELECT h.nam... hotel" />
-                <marker date="1479408465000" expanded="true" signature="1611:1666" placeholder="SELECT c.hot... CLIENT_BOOKING" />
-                <marker date="1479408465000" expanded="true" signature="1866:1951" placeholder="INSERT INTO booking... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StaffProfileRepositoryImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <marker date="1479238332000" expanded="true" signature="449:573" placeholder="select st.su... staff_profile" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BookingServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/BookingServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ClientController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/ClientController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="189" column="0" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crm_roma.public.booking" pinned="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.booking">
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crm_roma.public.rooms" pinned="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.rooms">
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BookingRegFormToUserTransformer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/BookingRegFormToUserTransformer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin_registration_staff.ftl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_staff.ftl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.375">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="124" column="49" selection-start-line="124" selection-start-column="49" selection-end-line="124" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegistrationController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/RegistrationController.java">
+      <file leaf-file-name="hotel_booking_page.ftl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/hotel_booking_page.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.93303573">
+              <caret line="63" column="72" selection-start-line="63" selection-start-column="72" selection-end-line="63" selection-end-column="72" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RoomsRepositoryImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/RoomsRepositoryImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7222222">
-              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1479407158000" expanded="true" signature="542:561" placeholder="SELECT * FRO... rooms" />
-                <marker date="1479407158000" expanded="true" signature="705:748" placeholder="SELECT * FRO... rooms" />
-                <marker date="1479407158000" expanded="true" signature="930:966" placeholder="SELECT * FRO... rooms" />
-                <marker date="1479407158000" expanded="true" signature="1164:1207" placeholder="INSERT INTO rooms... " />
-                <marker date="1479407158000" expanded="true" signature="1164:1212" placeholder="INSERT INTO rooms... " />
-                <marker date="1479407158000" expanded="true" signature="1164:1213" placeholder="INSERT INTO rooms... " />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -348,57 +162,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/services.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_services_page.ftl" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/ClientServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/profile.ftl" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/HotelForm.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_office_profile_page.ftl" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/AdminController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/OfficeServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/IntervalServiceImpl.java" />
-        <option value="dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.booking" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/BookingRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/headerClient.ftl" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/staff_profile_page.ftl" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/ManagerProfileRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/ManagerProfileEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/HotelRepositoryImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/HotelRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/HotelServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/HotelService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/ManagerProfileServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/ManagerProfileService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/ManagerProfileRepositoryImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/manager_profile_page.ftl" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/StaffController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_offices_page.ftl" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/hotel_view.ftl" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/HotelEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/hotel_profile_page.ftl" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_booking.ftl" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/booking_info.ftl" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/RoomsEntity.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/RoomForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/RoomCategory.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/RoomsService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/RoomCategoryReposirotyImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/RoomsService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/RoomCategoryService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/RoomsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/RoomsCategoryServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/RoomCategoryEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/registration_client.ftl" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/BookingService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/BookingRegFormToUserTransformer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/BookingServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/ClientController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/hotel_booking_page.ftl" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/BookingForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/RoomsRepositoryImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/BookingEntity.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0adb5093-d6a7-48c6-a639-6111dfde5fc1/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/index_page.ftl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_booking.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/RoomCategoryRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/RoomCategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/RoomsCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/BookingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/BookingServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/StaffServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/StaffProfileServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/ClientServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/IndexPageController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_page.ftl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_page.ftl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_edit_page.ftl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/staff_profile_page.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/HotelForm.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/registration-office.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/registration_client.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/HotelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_office_profile_page.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/HotelRegFormToUserTransformer.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_staff.ftl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_office.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/HotelEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/StaffController.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/BookingRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/RoomsEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_offices_page.ftl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/manager_profile_page.ftl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/booking_info.ftl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/hotel_profile_page.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/ClientController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/hotel_booking_page.ftl" />
       </list>
     </option>
   </component>
@@ -425,6 +239,16 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1280" />
@@ -456,7 +280,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -542,6 +366,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CRM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MedClinic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -739,6 +593,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="security" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CRM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MedClinic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="repository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -863,13 +747,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enums" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CRM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MedClinic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1464,12 +1382,16 @@
       <workItem from="1479149903918" duration="5010000" />
       <workItem from="1479163049298" duration="16111000" />
       <workItem from="1479269665078" duration="11579000" />
-      <workItem from="1479324041522" duration="51350000" />
+      <workItem from="1479324041522" duration="63794000" />
+      <workItem from="1479431497078" duration="8220000" />
+      <workItem from="1479470529308" duration="1116000" />
+      <workItem from="1479473037420" duration="1036000" />
+      <workItem from="1479483126390" duration="894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84064000" />
+    <option name="totallyTimeSpent" value="107774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1482,18 +1404,16 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4561644" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.49353796" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31506848" sideWeight="0.49353796" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17932148" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18497577" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18659128" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1504,6 +1424,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1550,15 +1472,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/ClientController.java</url>
-          <line>176</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1567,42 +1481,234 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/registration-validation.js">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.0.6.RELEASE/spring-aop-4.0.6.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.2820513">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.296296">
+          <caret line="464" column="0" selection-start-line="464" selection-start-column="0" selection-end-line="464" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/index_page.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.088495575">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/ClientServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/booking_info.ftl">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/IndexPageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6238938">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/StaffEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12820514">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_page.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0">
+          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_staff_profile_page.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45595855">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/staff_profile_page.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6217617">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/header.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.69948184">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_office_profile_page.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7276786">
+          <caret line="83" column="53" selection-start-line="83" selection-start-column="53" selection-end-line="83" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/StaffService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38135594">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/BookingForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03177966">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/ProfileForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12711865">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/StaffServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17372881">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/registration-office.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3644068">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_staff.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12946428">
+          <caret line="130" column="107" selection-start-line="130" selection-start-column="107" selection-end-line="130" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/ClientEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19067797">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/PersonEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16101696">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/BookingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/client_booking.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.21681416">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="30" selection-end-column="4" />
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/BookingServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1374#1375#0" expanded="false" />
+            <element signature="e#1443#1444#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/SQLFiles/InnoHotel_public_Rooms.sql">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/RoomsEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/RoomsForm.java">
+    <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.rooms">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_office.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21367522">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="56" column="55" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_offices_page.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="114" selection-start-line="63" selection-start-column="114" selection-end-line="63" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/HotelForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
           <folding>
-            <element signature="e#211#212#0" expanded="false" />
-            <element signature="e#256#257#0" expanded="false" />
-            <element signature="e#292#293#0" expanded="false" />
-            <element signature="e#325#326#0" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
-            <element signature="e#396#397#0" expanded="false" />
-            <element signature="e#430#431#0" expanded="false" />
+            <element signature="e#228#229#0" expanded="false" />
+            <element signature="e#253#254#0" expanded="false" />
+            <element signature="e#290#291#0" expanded="false" />
+            <element signature="e#318#319#0" expanded="false" />
+            <element signature="e#349#350#0" expanded="false" />
+            <element signature="e#376#377#0" expanded="false" />
+            <element signature="e#416#417#0" expanded="false" />
+            <element signature="e#448#449#0" expanded="false" />
+            <element signature="e#546#547#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#612#613#0" expanded="false" />
+            <element signature="e#642#643#0" expanded="false" />
+            <element signature="e#688#689#0" expanded="false" />
+            <element signature="e#726#727#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1611,98 +1717,152 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.6.RELEASE/spring-context-4.0.6.RELEASE.jar!/org/springframework/stereotype/Repository.class">
+    <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.booking">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.manager_profile">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.manager_file">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/HotelRegFormToUserTransformer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15555556">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
+        <state vertical-scroll-proportion="0.2542373">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/HotelServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6822034">
+          <caret line="37" column="67" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
+          <folding>
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/HotelService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17094018">
+        <state vertical-scroll-proportion="0.38135594">
           <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/StaffServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10683761">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/RoomCategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/RoomsCategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/RoomCategory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/manager_profile_page.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="e#426#427#0" expanded="false" />
-            <element signature="e#466#467#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.546875">
+          <caret line="67" column="113" selection-start-line="67" selection-start-column="113" selection-end-line="67" selection-end-column="113" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/persistence-config.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/StaffController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.52330506">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/RoomsEntity.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/HotelEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7723577">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.03177966">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/RoomCategoryEntity.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/hotel_view.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2991453">
-          <caret line="14" column="4" selection-start-line="10" selection-start-column="3" selection-end-line="14" selection-end-column="4" />
-          <folding>
-            <element signature="e#541#542#0" expanded="false" />
-            <element signature="e#568#569#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/RoomsServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/booking_info.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47008547">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state vertical-scroll-proportion="1.5619469">
+          <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/registration_client.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49115044">
+          <caret line="120" column="56" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/BookingRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18803419">
+          <caret line="53" column="52" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
+            <marker date="1479456469000" expanded="true" signature="572:600" placeholder="SELECT * FRO... booking" />
+            <marker date="1479456469000" expanded="true" signature="745:807" placeholder="SELECT hotel... booking" />
+            <marker date="1479456469000" expanded="true" signature="745:828" placeholder="SELECT h.nam... CLIENT_BOOKING" />
+            <marker date="1479456469000" expanded="true" signature="1024:1129" placeholder="SELECT user_... booking" />
+            <marker date="1479456469000" expanded="true" signature="1024:1136" placeholder="SELECT c.nam... CLIENT_BOOKING" />
+            <marker date="1479456469000" expanded="true" signature="1024:1151" placeholder="SELECT c.fir... CLIENT_BOOKING" />
+            <marker date="1479456469000" expanded="true" signature="1024:1155" placeholder="SELECT r.num... booking" />
+            <marker date="1479456469000" expanded="true" signature="1024:1168" placeholder="SELECT r.num... booking" />
+            <marker date="1479456469000" expanded="true" signature="1024:1173" placeholder="SELECT r.num... booking" />
+            <marker date="1479456469000" expanded="true" signature="1371:1520" placeholder="SELECT DISTI... booking" />
+            <marker date="1479456469000" expanded="true" signature="1718:1865" placeholder="SELECT DISTI... booking" />
+            <marker date="1479456469000" expanded="true" signature="2062:2143" placeholder="SELECT h.id CLIENT_BOOKING" />
+            <marker date="1479456469000" expanded="true" signature="2338:2438" placeholder="SELECT h.nam... hotel" />
+            <marker date="1479456469000" expanded="true" signature="2382:2437" placeholder="SELECT c.hot... CLIENT_BOOKING" />
+            <marker date="1479456469000" expanded="true" signature="2646:2697" placeholder="SELECT room_... booking" />
+            <marker date="1479456469000" expanded="true" signature="2646:2735" placeholder="SELECT room_... booking" />
+            <marker date="1479456469000" expanded="true" signature="2646:2739" placeholder="SELECT r.num... booking" />
+            <marker date="1479456469000" expanded="true" signature="2646:2772" placeholder="SELECT r.num... booking" />
+            <marker date="1479456469000" expanded="true" signature="3016:3037" placeholder="SELECT * FRO... booking" />
+            <marker date="1479456469000" expanded="true" signature="3016:3038" placeholder="SELECT id FR... booking" />
+            <marker date="1479456469000" expanded="true" signature="3016:3053" placeholder="SELECT * FRO... booking" />
+            <marker date="1479456469000" expanded="true" signature="3252:3337" placeholder="INSERT INTO booking... " />
           </folding>
         </state>
       </provider>
@@ -1720,349 +1880,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/profile.ftl">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.clients">
+      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/RoomsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23504274">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.6.RELEASE/spring-webmvc-4.0.6.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.296296">
-          <caret line="481" column="0" selection-start-line="481" selection-start-column="0" selection-end-line="481" selection-end-column="0" />
+    <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.staff">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.9.2.RELEASE/spring-data-commons-1.9.2.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27842227">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.6.RELEASE/spring-web-4.0.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45475638">
-          <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/ClientService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25641027">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/BookingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2777778">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/ClientServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33190882">
-          <caret line="41" column="69" selection-start-line="41" selection-start-column="69" selection-end-line="41" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/ClientRegFormToUserTransformer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1923077">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding />
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/hotel_profile_page.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6637168">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.20353982">
+          <caret line="70" column="129" selection-start-line="70" selection-start-column="129" selection-end-line="70" selection-end-column="129" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/security/AuthProviderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21367522">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/RegistrationForm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25641027">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state vertical-scroll-proportion="1.4743589">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2302#2303#0" expanded="true" />
+            <element signature="e#2342#2343#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/AdminController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/StaffRegFormToUserTransformer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1921397">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_office.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/registration_client.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17281106">
-          <caret line="37" column="82" selection-start-line="37" selection-start-column="75" selection-end-line="37" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/PersonEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17317073">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/RoomCategoryRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6707317">
-          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1479394730000" expanded="true" signature="444:471" placeholder="SELECT * FRO... room_category" />
-            <marker date="1479394730000" expanded="true" signature="623:668" placeholder="SELECT * FRO... room_category" />
-            <marker date="1479394730000" expanded="true" signature="897:943" placeholder="SELECT * FRO... room_category" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/HotelForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25609756">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/IntervalRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.8292683">
+        <state vertical-scroll-proportion="0.10683761">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <marker date="1479149859000" expanded="true" signature="425:541" placeholder="select i.day... interval" />
-            <marker date="1479149859000" expanded="true" signature="743:889" placeholder="select i.per... interval" />
-            <marker date="1479149859000" expanded="true" signature="1139:1275" placeholder="select i.id interval" />
-            <marker date="1479149859000" expanded="true" signature="1644:1707" placeholder="UPDATE inter... " />
-            <marker date="1479149859000" expanded="true" signature="1916:1967" placeholder="select i.id interval" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/form/BookingForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25609756">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/HotelEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1707317">
-          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-          <folding>
-            <element signature="e#800#801#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/ClientEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/entity/BookingEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0adb5093-d6a7-48c6-a639-6111dfde5fc1/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="64" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/hotel_booking_page.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.125">
-          <caret line="54" column="30" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/admin_registration_staff.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.375">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/RegistrationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/util/BookingRegFormToUserTransformer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/service/impl/BookingServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/controller/ClientController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="189" column="0" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.room_category">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="124" column="49" selection-start-line="124" selection-start-column="49" selection-end-line="124" selection-end-column="49" />
           <folding />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.rooms">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/hotel_booking_page.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93303573">
+          <caret line="63" column="72" selection-start-line="63" selection-start-column="72" selection-end-line="63" selection-end-column="72" />
           <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/a2380b12/0adb5093-d6a7-48c6-a639-6111dfde5fc1/crm_roma.public.booking">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/BookingRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="28" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1479408465000" expanded="true" signature="549:577" placeholder="SELECT * FRO... booking" />
-            <marker date="1479408465000" expanded="true" signature="722:784" placeholder="SELECT hotel... booking" />
-            <marker date="1479408465000" expanded="true" signature="722:805" placeholder="SELECT h.nam... CLIENT_BOOKING" />
-            <marker date="1479408465000" expanded="true" signature="1001:1074" placeholder="SELECT user_... booking" />
-            <marker date="1479408465000" expanded="true" signature="1001:1081" placeholder="SELECT c.nam... CLIENT_BOOKING" />
-            <marker date="1479408465000" expanded="true" signature="1001:1096" placeholder="SELECT c.fir... CLIENT_BOOKING" />
-            <marker date="1479408465000" expanded="true" signature="1291:1372" placeholder="SELECT h.id CLIENT_BOOKING" />
-            <marker date="1479408465000" expanded="true" signature="1567:1667" placeholder="SELECT h.nam... hotel" />
-            <marker date="1479408465000" expanded="true" signature="1611:1666" placeholder="SELECT c.hot... CLIENT_BOOKING" />
-            <marker date="1479408465000" expanded="true" signature="1866:1951" placeholder="INSERT INTO booking... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/StaffProfileRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <marker date="1479238332000" expanded="true" signature="449:573" placeholder="select st.su... staff_profile" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/kpfu/itis/repository/impl/RoomsRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7222222">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1479407158000" expanded="true" signature="542:561" placeholder="SELECT * FRO... rooms" />
-            <marker date="1479407158000" expanded="true" signature="705:748" placeholder="SELECT * FRO... rooms" />
-            <marker date="1479407158000" expanded="true" signature="930:966" placeholder="SELECT * FRO... rooms" />
-            <marker date="1479407158000" expanded="true" signature="1164:1207" placeholder="INSERT INTO rooms... " />
-            <marker date="1479407158000" expanded="true" signature="1164:1212" placeholder="INSERT INTO rooms... " />
-            <marker date="1479407158000" expanded="true" signature="1164:1213" placeholder="INSERT INTO rooms... " />
-          </folding>
         </state>
       </provider>
     </entry>

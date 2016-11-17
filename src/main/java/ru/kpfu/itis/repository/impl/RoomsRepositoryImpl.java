@@ -23,7 +23,7 @@ public class RoomsRepositoryImpl {
     }
 
     public List findRoomsByHotelId(Integer hotel){
-        Query query = em.createNativeQuery("SELECT number FROM rooms WHERE id_hotel = ?");
+        Query query = em.createNativeQuery("SELECT number FROM rooms WHERE idHotel = ?");
         query.setParameter(1, hotel);
         return query.getResultList();
     }
@@ -36,7 +36,7 @@ public class RoomsRepositoryImpl {
 
     @Transactional
     public void save(RoomsEntity roomsEntity){
-        Query query = em.createNativeQuery("INSERT INTO rooms (number, id_hotel) VALUES (?,?)");
+        Query query = em.createNativeQuery("INSERT INTO rooms (number, idHotel) VALUES (?,?)");
         query.setParameter(1, roomsEntity.getNumber());
         query.setParameter(2, roomsEntity.getHotel());
         query.executeUpdate();

@@ -37,12 +37,9 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/admin">Прибыль</a></li>
-                    <li><a href="/admin">Затраты</a></li>
-                    <li><a href="/admin">Поставки</a></li>
-                    <li class="active"><a href="/admin/offices">Офисы</a></li>
-                    <li><a href="/admin/staff">Сотрудники</a></li>
-                    <li><a href="/logout">Выход</a></li>
+                    <li><a href="/admin/offices">Office</a></li>
+                    <li class="active"><a href="/admin/staff">Stuff</a></li>
+                    <li><a href="/logout">Log out</a></li>
                 </ul>
             </div>
         </div>
@@ -57,45 +54,46 @@
 <div class="container">
 <@sf.form class="form-horizontal" action="/admin/registration/office" method="post" modelAttribute="officeform" id="reg_form">
     <div class="form-group">
-        <label class="control-label col-xs-3" for="city">Город:</label>
+        <label class="control-label col-xs-3" for="name">Name:</label>
         <div class="col-xs-6">
-            <@sf.input path="city" type="text" class="form-control" id="city" placeholder="Укажите Город"/>
-            <@sf.errors path="city" class = "form-control alert alert-warning text-center"/>
+            <@sf.input path="name" type="text" class="form-control" id="name" placeholder="Enter name"/>
+            <@sf.errors path="name" class = "form-control alert alert-warning text-center"/>
             <div class="surname-error col-xs-2">
+                <#if nameError??>
+                        ${nameError}
+                    </#if>
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-3" for="country">Country:</label>
+        <div class="col-xs-6">
+            <@sf.input path="country" type="text" class="form-control" id="country" placeholder="Enter country"/>
+            <@sf.errors path="country" class = "form-control alert alert-warning text-center"/>
+            <div class="surname-error col-xs-2">
+                <#if countryError??>
+                        ${countryError}
+                    </#if>
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-3" for="city">City:</label>
+        <div class="col-xs-6">
+            <@sf.input path="city" type="text" class="form-control" id="city" placeholder="Enter city"/>
+            <@sf.errors path="city" class = "form-control alert alert-warning text-center"/>
+            <div class="street-error col-xs-2">
                 <#if cityError??>
                         ${cityError}
                     </#if>
             </div>
         </div>
     </div>
-    <div class="form-group">
-        <label class="control-label col-xs-3" for="street">Улица:</label>
-        <div class="col-xs-6">
-            <@sf.input path="street" type="text" class="form-control" id="street" placeholder="Укажите Улицу и Номер Дома"/>
-            <@sf.errors path="street" class = "form-control alert alert-warning text-center"/>
-            <div class="street-error col-xs-2">
-                <#if streetError??>
-                        ${streetError}
-                    </#if>
-            </div>
-        </div>
-    </div>
-    <div class="form-group">
-        <label class="control-label col-xs-3" for="rent">Стоимость аренды:</label>
-        <div class="col-xs-6">
-            <@sf.input path="rent" type="text" class="form-control" id="rent" placeholder="Укажите Стоимость Аренды"/>
-            <@sf.errors path="rent" class = "form-control alert alert-warning text-center"/>
-            <div class="rent-error col-xs-2">
-                <#if rentError??>
-                        ${rentError}
-                    </#if>
-            </div>
-        </div>
-    </div>
+
     <div class="form-group text-center">
         <div class="col-xs-offset-3 col-xs-9">
-            <input type="submit" class="btn btn-primary" value="Добавить">
-            <input type="reset" class="btn btn-default" value="Очистить форму">
+            <input type="submit" class="btn btn-primary" value="Add">
+            <input type="reset" class="btn btn-default" value="clear form">
         </div>
     </div>
 </@sf.form>

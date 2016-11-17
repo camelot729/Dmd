@@ -17,7 +17,7 @@ public class RoomsEntity {
     @Column(name = "number",nullable = false)
     private int number;
 
-    @Column(name = "id_hotel", nullable = false)
+    @Column(name = "idHotel", nullable = false)
     private int hotel;
 
     public int getId() {

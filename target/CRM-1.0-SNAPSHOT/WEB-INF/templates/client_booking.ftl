@@ -35,6 +35,7 @@
             <div class="row">
                 <div>
                     <div class="center">
+                        <h3>My booking</h3>
 
                         <#list list as l>
                             <a href="/client/myBooking/${l.getValue()}"><p>${l.getKey()}</p></a>

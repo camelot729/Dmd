@@ -37,8 +37,8 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/staff/schedule">Часы приема</a></li>
-                    <li><a href="/staff/booking">booking</a></li>
+                    <li><a href="/staff">Profile</a></li>
+                    <li class="active"><a href="/staff/booking">booking</a></li>
                     <li><a href="/logout">logout</a></li>
                 </ul>
             </div>
@@ -63,11 +63,9 @@
             <div class="row">
                 <div>
                     <div class="center">
-
-                        <br>${id}
-                        <br>${hotel}
-                    <#list booking as bookings>
-                        <p>${bookings}</p>
+                    <p>Arrived :&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Departed: &nbsp;&nbsp;&nbsp; Name: &nbsp;&nbsp;&nbsp; Surname :</p>
+                    <#list list as l>
+                        <p>${l.getKey()} &nbsp;&nbsp; ${l.getValue()}&nbsp;&nbsp;&nbsp; Zakirov&nbsp;&nbsp;&nbsp; Anvar</p>
                     </#list>
 
                     </div>
@@ -78,7 +76,7 @@
 </section><!--/#services-->
 
 
-
+<#include "footer.ftl">
 
 </body>
 </html>

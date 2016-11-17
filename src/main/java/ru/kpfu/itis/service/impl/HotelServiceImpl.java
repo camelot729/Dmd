@@ -5,9 +5,12 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 import ru.kpfu.itis.entity.HotelEntity;
+import ru.kpfu.itis.entity.StaffEntity;
 import ru.kpfu.itis.form.HotelForm;
 import ru.kpfu.itis.repository.HotelRepository;
 import ru.kpfu.itis.service.HotelService;
+import ru.kpfu.itis.util.HotelRegFormToUserTransformer;
+import ru.kpfu.itis.util.StaffRegFormToUserTransformer;
 
 import java.util.List;
 
@@ -32,6 +35,7 @@ public class HotelServiceImpl implements HotelService{
 
     @Override
     public void safeNewHotel(HotelForm form) {
-
+        HotelEntity staffEntity = HotelRegFormToUserTransformer.transform(form);
+        hotelRepository.save(staffEntity);
     }
 }

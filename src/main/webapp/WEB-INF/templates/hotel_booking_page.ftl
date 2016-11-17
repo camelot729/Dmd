@@ -61,7 +61,7 @@
 
     <div class="form-group center">
         <div class="col-xs-offset-3 col-xs-9">
-            <input type="submit" class="btn btn-primary" value="Забронировать">
+            <input type="submit" class="btn btn-primary" value="Booking4">
         </div>
     </div>
 </div>

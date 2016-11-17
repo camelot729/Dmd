@@ -2,12 +2,9 @@ package ru.kpfu.itis.controller;
 
 import javafx.util.Pair;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.propertyeditors.StringArrayPropertyEditor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
-import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.security.core.userdetails.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
@@ -17,11 +14,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import ru.kpfu.itis.entity.*;
 import ru.kpfu.itis.form.BookingForm;
-import ru.kpfu.itis.form.OfficeForm;
-import ru.kpfu.itis.form.ReceptionForm;
 import ru.kpfu.itis.service.*;
 
-import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
 import java.util.ArrayList;
 import java.util.List;
@@ -30,9 +24,6 @@ import java.util.Map;
 @Controller
 @RequestMapping("/client")
 public class ClientController {
-
-    @Autowired
-    OfficeService officeService;
 
     @Autowired
     ClientService clientService;
@@ -62,47 +53,6 @@ public class ClientController {
         return "profile";
     }
 
-    @RequestMapping(  value = "/services", method = RequestMethod.GET)
-    public String getServicesPage(@ModelAttribute("doctor") String doctor, Model model){
-        model.addAttribute("recepForm", new ReceptionForm());
-        int staffId = 0;
-        Page<StaffEntity> staffEntities = staffService.getAllStaff(new PageRequest(staffId,3));
-        model.addAttribute("doctors", staffEntities);
-        return "client_services_page";
-    }
-
-    @RequestMapping(value = "/services", method = RequestMethod.POST)
-    public String getClientRegistration(@ModelAttribute("recepForm") @Valid ReceptionForm form, BindingResult result){
-
-        if (result.hasErrors()) {
-            return "/services";
-        }
-
-        clientService.changeInterval(form);
-        return "redirect:/client";
-    }
-
-    @RequestMapping(value = {"/offices","/offices/{pageNumber}"}, method = RequestMethod.GET)
-    public String getOfficesPage(@PathVariable Map<String, String> pathVariables, Model model) {
-
-        int pageNumber = 0;
-        if (pathVariables.containsKey("pageNumber")) pageNumber = Integer.parseInt(pathVariables.get("pageNumber"));
-
-        Page<OfficeEntity> officeEntities = officeService.getAllOffices(new PageRequest(pageNumber, 3));
-        model.addAttribute("offices", officeEntities);
-        model.addAttribute("page", pageNumber);
-
-        return "client_offices_page";
-    }
-
-    @RequestMapping(value = "/office/profile/{id}", method = RequestMethod.GET)
-    public String getOfficeProfilePage(@PathVariable Integer id, Model model) {
-
-        OfficeEntity officeEntity = officeService.getOfficeById(id);
-        model.addAttribute("office", officeEntity);
-        return "client_office_profile_page";
-    }
-
     @RequestMapping(value = {"/hotel","/hotel/{pageNumber}"}, method = RequestMethod.GET)
     public String getHotel(@PathVariable Map<String, String> pathVariables, Model model){
 
@@ -110,7 +60,7 @@ public class ClientController {
         int pageNumber = 0;
         if (pathVariables.containsKey("pageNumber")) pageNumber = Integer.parseInt(pathVariables.get("pageNumber"));
 
-        Page<HotelEntity> hotelEntities = hotelService.getAllHotel(new PageRequest(pageNumber, 100));
+        Page<HotelEntity> hotelEntities = hotelService.getAllHotel(new PageRequest(pageNumber, 20));
 
         model.addAttribute("hotel", hotelEntities);
         model.addAttribute("page", pageNumber);
@@ -140,6 +90,7 @@ public class ClientController {
         List<Pair<BookingEntity, BookingEntity>> list = new ArrayList<>();
         for (int i = 0; i < bookingEntities.size(); i++)
             list.add(new Pair<>(bookingEntity.get(i), bookingEntities.get(i)));
+
         model.addAttribute("booking",bookingEntity);
         model.addAttribute("id", bookingEntities);
         model.addAttribute("list", list);
@@ -151,7 +102,12 @@ public class ClientController {
     public String getBookingInfo(@PathVariable Integer id, Model model){
 
         HotelEntity hotelEntity = hotelService.getHotelById(id);
+
         model.addAttribute("hotel", hotelEntity);
+
+        List<RoomsEntity> roomsEntity = roomsService.getRoomByHotelID(id);
+
+        model.addAttribute("rooms", roomsEntity);
 
         return "booking_info";
     }
@@ -160,6 +116,7 @@ public class ClientController {
     public String getBookingPage(@PathVariable Integer id, Model model){
 
         List<RoomsEntity> roomsEntity = roomsService.getRoomByHotelID(id);
+
 
         model.addAttribute("bookingform", new BookingForm());
         model.addAttribute("rooms", roomsEntity);
@@ -181,15 +138,15 @@ public class ClientController {
         HotelEntity hotelEntity = hotelService.getHotelById(id);
 
         List<RoomsEntity> roomsEntity = roomsService.getRoomByHotelID(id);
-        model.addAttribute("rooms", roomsEntity);
 
+        model.addAttribute("rooms", roomsEntity);
         model.addAttribute("hotel", hotelEntity);
         Integer name = person.getId();
         form.setHotel(id);
         form.setUser(name);
         bookingService.safeNewBooking(form);
 
-        return "hotel_booking_page";
+        return "redirect:/client/myBooking";
     }
 
 

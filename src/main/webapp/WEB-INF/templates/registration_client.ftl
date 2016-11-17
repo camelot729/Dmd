@@ -118,8 +118,8 @@
     </div>
     <div class="form-group text-center">
         <div class="col-xs-offset-3 col-xs-9">
-            <input type="submit" class="btn btn-primary" value="Регистрация">
-            <input type="reset" class="btn btn-default" value="Очистить форму">
+            <input type="submit" class="btn btn-primary" value="Registration">
+            <input type="reset" class="btn btn-default" value="Clear form">
         </div>
     </div>
 </@sf.form>

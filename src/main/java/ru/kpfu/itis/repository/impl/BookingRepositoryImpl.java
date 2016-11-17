@@ -7,6 +7,7 @@ import ru.kpfu.itis.entity.BookingEntity;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.Query;
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -31,10 +32,23 @@ public class BookingRepositoryImpl {
     }
 
     public List<BookingEntity> findAllUserssByHotelId(Integer id) {
-        Query query = em.createNativeQuery("SELECT c.firstname FROM booking as CL, clients AS c WHERE CL.hotel_id = ? AND c.id = CL.user_id");
+        Query query = em.createNativeQuery("SELECT DISTINCT CL.arrived FROM booking as CL, clients AS c, rooms as r, staff as s WHERE CL.hotel_id = ? AND c.id = CL.user_id AND CL.room_id = r.id ");
         query.setParameter(1, id);
         return query.getResultList();
     }
+
+    public List<BookingEntity> findAllUserssByHotelId2(Integer id) {
+        Query query = em.createNativeQuery("SELECT DISTINCT CL.departe FROM booking as CL, clients AS c, rooms as r, staff as s WHERE CL.hotel_id = ? AND c.id = CL.user_id AND CL.room_id = r.id ");
+        query.setParameter(1, id);
+        return query.getResultList();
+    }
+
+    public List<BookingEntity> findAllUserssByHotelId3(Integer id) {
+        Query query = em.createNativeQuery("SELECT DISTINCT r.number FROM booking as CL, clients AS c, rooms as r, staff as s WHERE CL.hotel_id = ? AND c.id = CL.user_id AND CL.room_id = r.id ");
+        query.setParameter(1, id);
+        return query.getResultList();
+    }
+
 
     public List<BookingEntity> findAllHotelIdByUserId(Integer id){
         Query query = em.createNativeQuery("SELECT h.id  FROM booking as C , hotel as h WHERE user_id = ? AND c.hotel_id=h.id");
@@ -48,6 +62,18 @@ public class BookingRepositoryImpl {
         return query.getResultList();
     }
 
+    public Integer takeRoomNumberByRoomIdAndHotelId(Integer id, Integer hotel){
+        Query query = em.createNativeQuery("SELECT r.number FROM booking as b, rooms as r WHERE b.hotel_id=r.idHotel AND b.hotel_id=? AND r.id = b.room_id And b.room_id=?");
+        query.setParameter(1, id);
+        query.setParameter(2,hotel);
+        return Integer.parseInt((String) query.getResultList().get(0));
+    }
+
+    public List takeBookingId(Integer user){
+        Query query = em.createNativeQuery("SELECT * FROM booking WHERE user_id=?");
+        query.setParameter(1,user);
+        return query.getResultList();
+    }
     @Transactional
     public void save(BookingEntity bookingEntity) {
         Query query = em.createNativeQuery("INSERT INTO booking (arrived, departe, hotel_id, room_id, user_id) VALUES (?,?,?,?,?)");

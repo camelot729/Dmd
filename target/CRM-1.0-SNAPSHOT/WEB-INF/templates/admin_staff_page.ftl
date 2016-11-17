@@ -35,11 +35,9 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/admin">Прибыль</a></li>
-                    <li><a href="/admin/expenses">Затраты</a></li>
-                    <li><a href="/admin/offices">Офисы</a></li>
-                    <li class="active"><a href="/admin/staff">Сотрудники</a></li>
-                    <li><a href="/logout">Выход</a></li>
+                    <li><a href="/admin/offices">Office</a></li>
+                    <li class="active"><a href="/admin/staff">Stuff</a></li>
+                    <li><a href="/logout">Log out</a></li>
                 </ul>
             </div>
         </div>
@@ -63,7 +61,7 @@
                 <div>
                     <div class="center">
 
-                        <a href="/admin/registration/staff" class="btn btn-lg btn-primary btn-default">Новый сотрудник</a>
+                        <a href="/admin/registration/staff" class="btn btn-lg btn-primary btn-default">New staff</a>
 
                     <#list staff.content as st>
                         <a href="/admin/staff/profile/${st.id}"><p>${st.firstname} ${st.surname}</p></a>
@@ -92,19 +90,7 @@
     </div><!--/.container-->
 </section><!--/#services-->
 
-<footer id="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6">
-                &copy; 2016 <a target="_blank" href="https://vk.com/id36179438">by Roman Egorov</a>. All Rights
-                Reserved.
-            </div>
-            <div class="col-sm-6">
-                <img class="pull-right" src="/images/shapebootstrap.png" alt="ShapeBootstrap" title="ShapeBootstrap">
-            </div>
-        </div>
-    </div>
-</footer><!--/#footer-->
+<#include "footer.ftl">
 
 <script src="/js/jquery.js"></script>
 <script src="/js/bootstrap.min.js"></script>

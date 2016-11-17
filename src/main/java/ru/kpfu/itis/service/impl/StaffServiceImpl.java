@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import ru.kpfu.itis.entity.StaffEntity;
 import ru.kpfu.itis.form.RegistrationForm;
-import ru.kpfu.itis.repository.IntervalRepository;
 import ru.kpfu.itis.repository.StaffRepository;
 import ru.kpfu.itis.service.StaffService;
 import ru.kpfu.itis.util.StaffRegFormToUserTransformer;
@@ -17,9 +16,6 @@ public class StaffServiceImpl implements StaffService{
 
     @Autowired
     StaffRepository staffRepository;
-
-    @Autowired
-    IntervalRepository intervalRepository;
 
     @Override
     public Page<StaffEntity> getAllStaff(PageRequest request) {

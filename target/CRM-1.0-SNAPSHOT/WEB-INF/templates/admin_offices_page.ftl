@@ -35,11 +35,9 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/admin">Прибыль</a></li>
-                    <li><a href="/admin/expenses">Затраты</a></li>
-                    <li class="active"><a href="/admin/offices">Офисы</a></li>
-                    <li><a href="/admin/staff">Сотрудники</a></li>
-                    <li><a href="/logout">Выход</a></li>
+                    <li class="active"><a href="/admin/offices">Office</a></li>
+                    <li><a href="/admin/staff">Stuff</a></li>
+                    <li><a href="/logout">Log out</a></li>
                 </ul>
             </div>
         </div>
@@ -63,10 +61,10 @@
                 <div>
                     <div class="center">
 
-                        <a href="/admin/registration/office" class="btn btn-lg btn-primary  btn-default">Добавить офис</a>
+                        <a href="/admin/registration/office" class="btn btn-lg btn-primary  btn-default">Add hotel</a>
 
                         <#list offices.content as office>
-                            <a href="/admin/office/profile/${office.id}"><p>${office.city} ${office.street}</p></a>
+                            <a href="/admin/office/profile/${office.id}"><p>${office.name} ${office.country} ${office.city}</p></a>
                         </#list>
 
                         <nav>

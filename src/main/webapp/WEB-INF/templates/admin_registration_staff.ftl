@@ -37,12 +37,9 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/admin">Прибыль</a></li>
-                    <li><a href="/admin">Затраты</a></li>
-                    <li><a href="/admin">Поставки</a></li>
-                    <li><a href="/admin/offices">Офисы</a></li>
-                    <li class="active"><a href="/admin/staff">Сотрудники</a></li>
-                    <li><a href="/logout">Выход</a></li>
+                    <li><a href="/admin/offices">Office</a></li>
+                    <li class="active"><a href="/admin/staff">Stuff</a></li>
+                    <li><a href="/logout">Log out</a></li>
                 </ul>
             </div>
         </div>
@@ -57,9 +54,9 @@
 <div class="container">
 <@sf.form class="form-horizontal" action="/admin/registration/staff" method="post" modelAttribute="userform" id="reg_form">
     <div class="form-group">
-        <label class="control-label col-xs-3" for="surname">Фамилия:</label>
+        <label class="control-label col-xs-3" for="surname">Surname:</label>
         <div class="col-xs-6">
-            <@sf.input path="surname" type="text" class="form-control" id="surname" placeholder="Введите фамилию"/>
+            <@sf.input path="surname" type="text" class="form-control" id="surname" placeholder="Enter family"/>
             <@sf.errors path="surname" class = "form-control alert alert-warning text-center"/>
             <div class="surname-error col-xs-2">
                 <#if surnameError??>
@@ -69,9 +66,9 @@
         </div>
     </div>
     <div class="form-group">
-        <label class="control-label col-xs-3" for="firstName">Имя:</label>
+        <label class="control-label col-xs-3" for="firstName">Name:</label>
         <div class="col-xs-6">
-            <@sf.input path="firstname" type="text" class="form-control" id="firstname" placeholder="Введите имя"/>
+            <@sf.input path="firstname" type="text" class="form-control" id="firstname" placeholder="Enter name"/>
             <@sf.errors path="firstname" class = "form-control alert alert-warning text-center"/>
             <div class="firstname-error col-xs-2">
                 <#if firstnameError??>
@@ -80,23 +77,11 @@
             </div>
         </div>
     </div>
-    <#--<div class="form-group">-->
-        <#--<label class="control-label col-xs-3" for="patronymic">Отчество:</label>-->
-        <#--<div class="col-xs-6">-->
-            <#--<@sf.input path="patronymic" type="text" class="form-control" id="patronymic" placeholder="Введите отчество"/>-->
-            <#--<@sf.errors path="patronymic" class = "form-control alert alert-warning text-center"/>-->
-            <#--<div class="patronymic-error col-xs-2">-->
-                <#--<#if patronymicError??>-->
-                        <#--${patronymicError}-->
-                    <#--</#if>-->
-            <#--</div>-->
-        <#--</div>-->
-    <#--</div>-->
     <div class="form-group">
-        <label class="control-label col-xs-3" for="sex">Пол:</label>
+        <label class="control-label col-xs-3" for="sex">Gender:</label>
         <div class="col-xs-6">
-            <@sf.radiobutton path="sex" name="sex" value="MALE" checked="checked"/>Мужской
-            <@sf.radiobutton path="sex" name="sex" value="FEMALE"/>Женский
+            <@sf.radiobutton path="sex" name="sex" value="MALE" checked="checked"/>Male
+            <@sf.radiobutton path="sex" name="sex" value="FEMALE"/>Female
             <div class="sex-error col-xs-2">
                 <#if sexError??>
                     ${sexError}
@@ -107,7 +92,7 @@
     <div class="form-group">
         <label class="control-label col-xs-3" for="inputEmail">Email:</label>
         <div class="col-xs-6">
-            <@sf.input path="email" type="text" class="form-control" id="email" placeholder="Введите почту"/>
+            <@sf.input path="email" type="text" class="form-control" id="email" placeholder="Enter email"/>
             <@sf.errors path="email" class = "form-control alert alert-warning text-center"/>
             <div class="email-error col-xs-2">
                 <#if emailError??>
@@ -117,9 +102,9 @@
         </div>
     </div>
     <div class="form-group">
-        <label class="control-label col-xs-3" for="login">Логин:</label>
+        <label class="control-label col-xs-3" for="login">Login:</label>
         <div class="col-xs-6">
-            <@sf.input path="login" type="text" class="form-control" id="login" placeholder="Введите логин"/>
+            <@sf.input path="login" type="text" class="form-control" id="login" placeholder="Enter login"/>
             <@sf.errors path="login" class = "form-control alert alert-warning text-center"/>
             <div class="login-error col-xs-2">
                 <#if loginError??>
@@ -129,9 +114,9 @@
         </div>
     </div>
     <div class="form-group">
-        <label class="control-label col-xs-3" for="inputPassword">Пароль:</label>
+        <label class="control-label col-xs-3" for="inputPassword">Password:</label>
         <div class="col-xs-6">
-            <@sf.input path="password" type="password" class="form-control" id="password" placeholder="Введите пароль"/>
+            <@sf.input path="password" type="password" class="form-control" id="password" placeholder="Enter password"/>
             <@sf.errors path="password" class = "form-control alert alert-warning text-center"/>
             <div class="password-error col-xs-2">
                 <#if passwordError??>
@@ -141,9 +126,9 @@
         </div>
     </div>
     <div class="form-group">
-        <label class="control-label col-xs-3" for="confirmPassword">Подтвердите пароль:</label>
+        <label class="control-label col-xs-3" for="confirmPassword">Enter password again:</label>
         <div class="col-xs-6">
-            <@sf.input path="repassword" type="password" class="form-control" id="repassword" placeholder="Введите пароль ещё раз"/>
+            <@sf.input path="repassword" type="password" class="form-control" id="repassword" placeholder="Enter password again"/>
             <@sf.errors path="repassword" class = "form-control alert alert-warning text-center"/>
             <div class="password-error col-xs-2">
                 <#if repasswordError??>
@@ -154,8 +139,8 @@
     </div>
     <div class="form-group text-center">
         <div class="col-xs-offset-3 col-xs-9">
-            <input type="submit" class="btn btn-primary" value="Регистрация">
-            <input type="reset" class="btn btn-default" value="Очистить форму">
+            <input type="submit" class="btn btn-primary" value="Registration">
+            <input type="reset" class="btn btn-default" value="Clear form">
         </div>
     </div>
 </@sf.form>

@@ -10,6 +10,7 @@ import ru.kpfu.itis.service.HotelService;
 import ru.kpfu.itis.util.BookingRegFormToUserTransformer;
 import ru.kpfu.itis.util.ClientRegFormToUserTransformer;
 
+import java.sql.Date;
 import java.util.List;
 
 /**
@@ -34,6 +35,16 @@ public class BookingServiceImpl implements BookingService {
     }
 
     @Override
+    public List getBookingByHotelId2(Integer hotel) {
+        return bookingRepository.findAllUserssByHotelId2(hotel);
+    }
+
+    @Override
+    public List getBookingByHotelId3(Integer hotel) {
+        return bookingRepository.findAllUserssByHotelId3(hotel);
+    }
+
+    @Override
     public List getHotelIdByUserId(Integer user) {
         return bookingRepository.findAllHotelIdByUserId(user);
     }
@@ -42,6 +53,12 @@ public class BookingServiceImpl implements BookingService {
     public List takeNameHotelByHotelId(Integer id) {
         return bookingRepository.takeNameHotelByHotelId(id);
     }
+
+    @Override
+    public List takeBookingId(Integer id) {
+        return bookingRepository.takeBookingId(id);
+    }
+
 
     @Override
     public void safeNewBooking(BookingForm form) {

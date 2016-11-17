@@ -23,4 +23,9 @@ public class RoomsCategoryServiceImpl implements RoomCategoryService {
     public Integer getRoomCategoryByCapacity(Integer capaciry) {
         return roomCategoryRepository.findRoomCategoryByCapacity(capaciry);
     }
+
+    @Override
+    public Integer getRoomCategoryCapacityByRoomId(Integer id) {
+        return roomCategoryRepository.findRoomCategoryCapasityByRoomId(id);
+    }
 }
